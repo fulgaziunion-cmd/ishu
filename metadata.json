@@ -1,0 +1,8 @@
+{
+  "name": "Ishu Vision Interface",
+  "description": "High-performance Cyberpunk HUD Voice Assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
